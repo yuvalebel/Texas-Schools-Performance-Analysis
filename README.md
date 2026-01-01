@@ -1,4 +1,4 @@
-# 🎓 Texas Schools Performance Analysis
+#  Texas Schools Performance Analysis
 
 **Final Project | Advanced Topics in Machine Learning & Data Mining**  
 *Ariel University*
@@ -113,3 +113,4 @@ To complement the supervised models, we applied unsupervised techniques for deep
 - All analyses comply with the dataset's public availability and ethical research standards.
 
 .
+
